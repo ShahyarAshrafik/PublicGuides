@@ -2,7 +2,7 @@
 
 # Step 1 — Installing Git
 
-Go ahead and open https://git-scm.com/. Download the application.
+Go ahead and open https://git-scm.com/. Download and install the application.
 
 
 # Step 2 — Configuring Git
